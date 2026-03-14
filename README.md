@@ -1,203 +1,176 @@
 <div align="center">
 
-<img src="./static/image/Thales_logo_compressed.jpeg" alt="Thales Logo" width="75%"/>
+<img src="./static/image/thales_portrait.png" alt="Thales of Miletus" width="200"/>
 
-<a href="https://trendshift.io/repositories/16144" target="_blank"><img src="https://trendshift.io/api/badge/repositories/16144" alt="666ghj%2FThales | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+# Thales
 
-简洁通用的群体智能引擎，预测万物
-</br>
-<em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em>
+*"Know thyself." — Thales of Miletus (c. 624–546 BC)*
 
-<a href="https://www.shanda.com/" target="_blank"><img src="./static/image/shanda_logo.png" alt="666ghj%2Thales | Shanda" height="40"/></a>
+[![Docker Build](https://img.shields.io/badge/Docker-Build-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-[![GitHub Stars](https://img.shields.io/github/stars/666ghj/Thales?style=flat-square&color=DAA520)](https://github.com/666ghj/Thales/stargazers)
-[![GitHub Watchers](https://img.shields.io/github/watchers/666ghj/Thales?style=flat-square)](https://github.com/666ghj/Thales/watchers)
-[![GitHub Forks](https://img.shields.io/github/forks/666ghj/Thales?style=flat-square)](https://github.com/666ghj/Thales/network)
-[![Docker](https://img.shields.io/badge/Docker-Build-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/666ghj/Thales)
-
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/1469200078932545606/1469201282077163739)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Thales_ai)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Thales_ai/)
-
-[English](./README-EN.md) | [中文文档](./README.md)
+*An Ancient Wisdom Engine for Modern Prediction*
 
 </div>
 
-## ⚡ Overview
+---
 
-**Thales** is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals), it automatically constructs a high-fidelity parallel digital world. Within this space, thousands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a "God's-eye view" to precisely deduce future trajectories — **rehearse the future in a digital sandbox, and win decisions after countless simulations**.
+## 🌊 Overview
 
-> You only need to: Upload seed materials (data analysis reports or interesting novel stories) and describe your prediction requirements in natural language</br>
-> Thales will return: A detailed prediction report and a deeply interactive high-fidelity digital world
+**Thales** is a next-generation swarm intelligence engine inspired by the world's first philosopher — Thales of Miletus, who believed that *all things are made of water* and that the universe operates through observable, rational principles.
 
-### Our Vision
+Just as Thales gazed at the night sky and predicted a solar eclipse centuries before modern astronomy, **Thales the engine** looks at the currents of real-world data — news, signals, social dynamics — and builds a living digital mirror of the world. Thousands of autonomous agents, each with their own memory, personality, and behavioral logic, interact freely within this simulated cosmos. From this collective emergence, futures can be glimpsed.
 
-Thales is dedicated to creating a swarm intelligence mirror that maps reality. By capturing the collective emergence triggered by individual interactions, we break through the limitations of traditional prediction:
+> You only provide: seed materials (reports, articles, signals) and a description of what you wish to foresee.
+> Thales returns: a richly detailed prediction report and a fully interactive simulated world to explore.
 
-- **At the Macro Level**: We are a rehearsal laboratory for decision-makers, allowing policies and public relations to be tested at zero risk
-- **At the Micro Level**: We are a creative sandbox for individual users — whether deducing novel endings or exploring imaginative scenarios, everything can be fun, playful, and accessible
+---
 
-From serious predictions to playful simulations, we let every "what if" see its outcome, making it possible to predict anything.
+## 🏛️ Philosophy
 
-## 🌐 Live Demo
+Thales of Miletus taught us that beneath the surface of all things lies a hidden unity — a single principle from which all complexity flows.
 
-Welcome to visit our online demo environment and experience a prediction simulation on trending public opinion events we've prepared for you: [Thales-live-demo](https://666ghj.github.io/Thales-demo/)
+**Thales the engine** is built on the same conviction:
 
-## 📸 Screenshots
+- **At the Macro Level** — A rehearsal theatre for decision-makers: policies, strategies, and public narratives can be stress-tested at zero cost before being deployed in the real world.
+- **At the Micro Level** — A philosopher's sandbox for individuals: explore counterfactuals, deduce story endings, or simply ask *"what if?"* and watch the world answer.
 
-<div align="center">
-<table>
-<tr>
-<td><img src="./static/image/Screenshot/运行截图1.png" alt="Screenshot 1" width="100%"/></td>
-<td><img src="./static/image/Screenshot/运行截图2.png" alt="Screenshot 2" width="100%"/></td>
-</tr>
-<tr>
-<td><img src="./static/image/Screenshot/运行截图3.png" alt="Screenshot 3" width="100%"/></td>
-<td><img src="./static/image/Screenshot/运行截图4.png" alt="Screenshot 4" width="100%"/></td>
-</tr>
-<tr>
-<td><img src="./static/image/Screenshot/运行截图5.png" alt="Screenshot 5" width="100%"/></td>
-<td><img src="./static/image/Screenshot/运行截图6.png" alt="Screenshot 6" width="100%"/></td>
-</tr>
-</table>
-</div>
+From the gravity of geopolitical forecasting to the playful curiosity of a thought experiment, Thales makes every question worth simulating.
 
-## 🎬 Demo Videos
+---
 
-### 1. Wuhan University Public Opinion Simulation + Thales Project Introduction
+## 🔄 How It Works
 
-<div align="center">
-<a href="https://www.bilibili.com/video/BV1VYBsBHEMY/" target="_blank"><img src="./static/image/武大模拟演示封面.png" alt="Thales Demo Video" width="75%"/></a>
+```
+Seed Extraction
+      ↓
+Graph Construction (GraphRAG + entity relationships)
+      ↓
+Agent Population (persona generation, memory injection)
+      ↓
+Parallel Simulation (dual-platform, dynamic temporal updates)
+      ↓
+ReportAgent (deep analysis, interactive Q&A)
+      ↓
+Prediction Report + Living Digital World
+```
 
-Click the image to watch the complete demo video for prediction using BettaFish-generated "Wuhan University Public Opinion Report"
-</div>
+### The Four Pillars
 
-### 2. Dream of the Red Chamber Lost Ending Simulation
+**1. Graph Building**
+Seed materials are distilled into structured knowledge graphs. Individual and collective memories are injected. GraphRAG ensures agents understand the world they inhabit.
 
-<div align="center">
-<a href="https://www.bilibili.com/video/BV1cPk3BBExq" target="_blank"><img src="./static/image/红楼梦模拟推演封面.jpg" alt="Thales Demo Video" width="75%"/></a>
+**2. Environment Setup**
+Entity relationships are extracted, personas are generated from the data, and each agent is configured with its own backstory, motivations, and behavioral tendencies.
 
-Click the image to watch Thales's deep prediction of the lost ending based on hundreds of thousands of words from the first 80 chapters of "Dream of the Red Chamber"
-</div>
+**3. Simulation**
+The digital world runs on two parallel platforms simultaneously. Prediction requirements are automatically parsed. Memory evolves dynamically as time advances within the simulation.
 
-> **Financial Prediction**, **Political News Prediction** and more examples coming soon...
+**4. Deep Interaction**
+Once the simulation concludes, you may converse with any agent in the simulated world — or interrogate the ReportAgent for nuanced, layered analysis of what transpired.
 
-## 🔄 Workflow
-
-1. **Graph Building**: Seed extraction & Individual/collective memory injection & GraphRAG construction
-2. **Environment Setup**: Entity relationship extraction & Persona generation & Agent configuration injection
-3. **Simulation**: Dual-platform parallel simulation & Auto-parse prediction requirements & Dynamic temporal memory updates
-4. **Report Generation**: ReportAgent with rich toolset for deep interaction with post-simulation environment
-5. **Deep Interaction**: Chat with any agent in the simulated world & Interact with ReportAgent
+---
 
 ## 🚀 Quick Start
 
-### Option 1: Source Code Deployment (Recommended)
+### Option 1: Source Code (Recommended)
 
-#### Prerequisites
+**Prerequisites**
 
-| Tool | Version | Description | Check Installation |
-|------|---------|-------------|-------------------|
-| **Node.js** | 18+ | Frontend runtime, includes npm | `node -v` |
-| **Python** | ≥3.11, ≤3.12 | Backend runtime | `python --version` |
-| **uv** | Latest | Python package manager | `uv --version` |
+| Tool | Version | Purpose |
+|------|---------|---------|
+| Node.js | 18+ | Frontend runtime |
+| Python | ≥3.11, ≤3.12 | Backend runtime |
+| uv | Latest | Python package manager |
 
-#### 1. Configure Environment Variables
+**Step 1 — Configure Environment Variables**
 
 ```bash
-# Copy the example configuration file
 cp .env.example .env
-
-# Edit the .env file and fill in the required API keys
+# Open .env and fill in your API keys
 ```
 
-**Required Environment Variables:**
+Required variables:
 
 ```env
-# LLM API Configuration (supports any LLM API with OpenAI SDK format)
-# Recommended: Alibaba Qwen-plus model via Bailian Platform: https://bailian.console.aliyun.com/
-# High consumption, try simulations with fewer than 40 rounds first
+# LLM API (OpenAI-compatible — any provider works)
 LLM_API_KEY=your_api_key
-LLM_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
-LLM_MODEL_NAME=qwen-plus
+LLM_BASE_URL=https://your-provider.com/v1
+LLM_MODEL_NAME=your-model-name
 
-# Zep Cloud Configuration
-# Free monthly quota is sufficient for simple usage: https://app.getzep.com/
+# Zep Cloud (long-term agent memory)
+# Free tier available at: https://app.getzep.com/
 ZEP_API_KEY=your_zep_api_key
 ```
 
-#### 2. Install Dependencies
+**Step 2 — Install Dependencies**
 
 ```bash
-# One-click installation of all dependencies (root + frontend + backend)
+# Install everything at once
 npm run setup:all
+
+# Or step by step:
+npm run setup          # Node + frontend
+npm run setup:backend  # Python backend (auto virtual env)
 ```
 
-Or install step by step:
+**Step 3 — Start Thales**
 
 ```bash
-# Install Node dependencies (root + frontend)
-npm run setup
-
-# Install Python dependencies (backend, auto-creates virtual environment)
-npm run setup:backend
-```
-
-#### 3. Start Services
-
-```bash
-# Start both frontend and backend (run from project root)
 npm run dev
 ```
 
-**Service URLs:**
-- Frontend: `http://localhost:3000`
-- Backend API: `http://localhost:5001`
+| Service | URL |
+|---------|-----|
+| Frontend | http://localhost:3000 |
+| Backend API | http://localhost:5001 |
 
-**Start Individually:**
+You can also start each service independently:
 
 ```bash
-npm run backend   # Start backend only
-npm run frontend  # Start frontend only
+npm run backend    # backend only
+npm run frontend   # frontend only
 ```
 
-### Option 2: Docker Deployment
+---
+
+### Option 2: Docker
 
 ```bash
-# 1. Configure environment variables (same as source deployment)
+# 1. Configure environment
 cp .env.example .env
 
-# 2. Pull image and start
+# 2. Pull and launch
 docker compose up -d
 ```
 
-Reads `.env` from root directory by default, maps ports `3000 (frontend) / 5001 (backend)`
+Ports mapped: **3000** (frontend) / **5001** (backend). Mirror images for faster pulls are noted as comments in `docker-compose.yml`.
 
-> Mirror address for faster pulling is provided as comments in `docker-compose.yml`, replace if needed.
+---
 
 ## 📬 Join the Conversation
 
-<div align="center">
-<img src="./static/image/QQ群.png" alt="QQ Group" width="60%"/>
-</div>
+The Thales team welcomes contributors, researchers, and curious minds.
 
-&nbsp;
+If you are passionate about multi-agent simulation, emergent intelligence, or LLM applications — open an issue, start a discussion, or reach out.
 
-The Thales team is recruiting full-time/internship positions. If you're interested in multi-agent simulation and LLM applications, feel free to send your resume to: **Thales@shanda.com**
+---
 
 ## 📄 Acknowledgments
 
-**Thales has received strategic support and incubation from Shanda Group!**
+Thales stands on the shoulders of giants:
 
-Thales's simulation engine is powered by **[OASIS (Open Agent Social Interaction Simulations)](https://github.com/camel-ai/oasis)**, We sincerely thank the CAMEL-AI team for their open-source contributions!
+- The simulation core is powered by **[OASIS](https://github.com/camel-ai/oasis)** — Open Agent Social Interaction Simulations. Deep gratitude to the **CAMEL-AI** team for their outstanding open-source contributions.
+- *Inspired by the life and thought of **Thales of Miletus** — the first philosopher, mathematician, and natural scientist of the Western tradition.*
 
-## 📈 Project Statistics
+> **Note:** This project is a fork of [MiroFish](https://github.com/666ghj/MiroFish), from which it draws its foundational architecture. Credit goes to the original authors for the extraordinary work that made Thales possible.
 
-<a href="https://www.star-history.com/#666ghj/Thales&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=666ghj/Thales&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=666ghj/Thales&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=666ghj/Thales&type=date&legend=top-left" />
- </picture>
-</a>
+---
+
+<div align="center">
+
+*"The most difficult thing in life is to know yourself."*
+— Thales of Miletus
+
+</div>
